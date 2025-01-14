@@ -62,8 +62,6 @@ This section focuses on exploring the relationship between movie ratings, metasc
 ## Requirements
 
 To run the analyses, ensure you have the following:
-
-- **Python 3.x**
 - Libraries:  
   - `pandas`, `matplotlib`, `statsmodels`, `scipy`, `numpy`
 
